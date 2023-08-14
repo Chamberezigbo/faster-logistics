@@ -15,7 +15,7 @@
                               <i class="fa fa-phone-alt mr-2"></i>+131 5325 009
                          </p>
                          <p>
-                              <i class="fa fa-envelope mr-2"></i>info@example.com
+                              <i class="fa fa-envelope mr-2"></i>info@faster-247.com
                          </p>
                          <div class="d-flex justify-content-start mt-4">
                               <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>

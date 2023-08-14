@@ -47,7 +47,7 @@
                          <div class="d-inline-flex align-items-center text-white">
                               <small><i class="fa fa-phone-alt mr-2"></i>+131 5325 009</small>
                               <small class="px-3">|</small>
-                              <small><i class="fa fa-envelope mr-2"></i>info@example.com</small>
+                              <small><i class="fa fa-envelope mr-2"></i>info@faster-247.com</small>
                          </div>
                     </div>
                     <div class="col-lg-6 text-center text-lg-right">
