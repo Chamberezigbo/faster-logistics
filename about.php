@@ -102,7 +102,7 @@ require('header.php');
                          <img class="card-img-top" src="img/team-1.jpg" alt="" />
                          <div class="card-body text-center p-0">
                               <div class="team-text d-flex flex-column justify-content-center bg-secondary">
-                                   <h5 class="font-weight-bold">David Williams</h5>
+                                   <h5 class="font-weight-bold">James Robert</h5>
                                    <span>Operations Supervisor</span>
                               </div>
                               <div class="team-social d-flex align-items-center justify-content-center bg-primary">

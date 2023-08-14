@@ -263,35 +263,27 @@ include 'header.php'; // Include the header file
 
 <!-- Pricing Plan Start -->
 <div class="container-fluid pt-5">
-     <div class="container">
-          <div class="text-center pb-2">
-               <h6 class="text-primary text-uppercase font-weight-bold">
-                    Pricing Plan
-               </h6>
+     <div class="container text-center">
+          <div class="pb-2">
+               <h6 class="text-primary text-uppercase font-weight-bold">Pricing Plan</h6>
                <h1 class="mb-4">Affordable Pricing Packages</h1>
           </div>
-          <div class="row">
+          <div class="row justify-content-center">
                <div class="col-md-4 mb-5">
                     <div class="bg-secondary">
                          <div class="text-center p-4">
                               <h1 class="display-4 mb-0">
-                                   <small class="align-top text-muted font-weight-medium" style="
-											font-size: 22px;
-											line-height: 45px;
-										">$</small>49<small class="align-bottom text-muted font-weight-medium" style="
-											font-size: 16px;
-											line-height: 40px;
-										">/Mo</small>
+                                   <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>550<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/72hrs</small>
                               </h1>
                          </div>
                          <div class="bg-primary text-center p-4">
-                              <h3 class="m-0">Basic</h3>
+                              <h3 class="m-0">International</h3>
                          </div>
                          <div class="d-flex flex-column align-items-center py-4">
-                              <p>Cutting-edge Technology</p>
-                              <p>Customer-Centric Approach:</p>
+                              <p>With-out Insurance</p>
+                              <p>Customer-Centric Approach</p>
                               <p>Warehousing</p>
-                              <p>Express Shipping:</p>
+                              <p>Express Shipping</p>
                               <a href="about.php" class="btn btn-primary py-2 px-4 my-2">Order Now</a>
                          </div>
                     </div>
@@ -300,48 +292,17 @@ include 'header.php'; // Include the header file
                     <div class="bg-secondary">
                          <div class="text-center p-4">
                               <h1 class="display-4 mb-0">
-                                   <small class="align-top text-muted font-weight-medium" style="
-											font-size: 22px;
-											line-height: 45px;
-										">$</small>99<small class="align-bottom text-muted font-weight-medium" style="
-											font-size: 16px;
-											line-height: 40px;
-										">/Mo</small>
+                                   <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>150<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/24hrs</small>
                               </h1>
                          </div>
                          <div class="bg-primary text-center p-4">
-                              <h3 class="m-0">Premium</h3>
+                              <h3 class="m-0">Domestic</h3>
                          </div>
                          <div class="d-flex flex-column align-items-center py-4">
-                              <p>Cutting-edge Technology</p>
+                              <p>Insurance</p>
                               <p>Customer-Centric Approach:</p>
                               <p>Warehousing</p>
-                              <p>Express Shipping:</p>
-                              <a href="about.php" class="btn btn-primary py-2 px-4 my-2">Order Now</a>
-                         </div>
-                    </div>
-               </div>
-               <div class="col-md-4 mb-5">
-                    <div class="bg-secondary">
-                         <div class="text-center p-4">
-                              <h1 class="display-4 mb-0">
-                                   <small class="align-top text-muted font-weight-medium" style="
-											font-size: 22px;
-											line-height: 45px;
-										">$</small>149<small class="align-bottom text-muted font-weight-medium" style="
-											font-size: 16px;
-											line-height: 40px;
-										">/Mo</small>
-                              </h1>
-                         </div>
-                         <div class="bg-primary text-center p-4">
-                              <h3 class="m-0">Business</h3>
-                         </div>
-                         <div class="d-flex flex-column align-items-center py-4">
-                              <p>Cutting-edge Technology</p>
-                              <p>Customer-Centric Approach:</p>
-                              <p>Warehousing</p>
-                              <p>Express Shipping:</p>
+                              <p>Express Shipping</p>
                               <a href="about.php" class="btn btn-primary py-2 px-4 my-2">Order Now</a>
                          </div>
                     </div>
@@ -350,6 +311,7 @@ include 'header.php'; // Include the header file
      </div>
 </div>
 <!-- Pricing Plan End -->
+
 
 <!-- Team Start -->
 <div class="container-fluid pt-5">
@@ -366,7 +328,7 @@ include 'header.php'; // Include the header file
                          <img class="card-img-top" src="img/team-1.jpg" alt="" />
                          <div class="card-body text-center p-0">
                               <div class="team-text d-flex flex-column justify-content-center bg-secondary">
-                                   <h5 class="font-weight-bold">David Williams</h5>
+                                   <h5 class="font-weight-bold">James Robert</h5>
                                    <span>Operations Supervisor</span>
                               </div>
                               <div class="team-social d-flex align-items-center justify-content-center bg-primary">
