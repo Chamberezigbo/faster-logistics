@@ -36,7 +36,7 @@ include "header.php";
                               <h3 class="m-0">International</h3>
                          </div>
                          <div class="d-flex flex-column align-items-center py-4">
-                              <p>With-out Insurance</p>
+                              <p>Cutting-edge Technology</p>
                               <p>Customer-Centric Approach</p>
                               <p>Warehousing</p>
                               <p>Express Shipping</p>
